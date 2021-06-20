@@ -1,9 +1,9 @@
 # Site settings
 title: Ashis Kumar's CV 
 description: ddbullfrog's CV
-favicon: /assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
+favicon: /assets/img/Ashis.JPG
+baseurl: https://ashiskumarpal.github.io/
+url: https://ashiskumarpal.github.io/
 rss_url: /pages/atom.xml
 google_analytics: UA-63653234-1
 
@@ -23,13 +23,13 @@ author:
   github: Ashisrony14
   linkedin: Ashispal-ipe
   twitter: ddbullfrog
-  gavatar: /resumecard/assets/img/avatar.JPG
+  gavatar: /resumecard/assets/img/Ashis.JPG
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: XXX Ltd
-      location: Auckland, New Zealand
+      company: Northeastern University
+      location: Boston,MA, USA.
       title: Java Developer
       started: 2014
       duration: (2014 - Present)
