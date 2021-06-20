@@ -2,7 +2,7 @@
     <div class="container-fluid">
         <div class="row-fluid">
             <div class="col-sm-8">
-                <img src="/assets/img/Ashis.JPG" title="Avatar" alt="My Avatar",width="180" height="250">
+                <img src="{{ site.favicon | prepend: site.baseurl }}" title="Avatar" alt="My Avatar",width="180" height="250">
                 <h4>{{ site.author.name }}</h4>
                 <p>{{ site.author.title }}</p>
                 <p class="muted">{{ site.author.address }}</p>
@@ -14,9 +14,11 @@
                 <p><i class="fa fa-linkedin-square fa-fw"></i> <a href="//linkedin.com/in/{{ site.author.linkedin }}" target="_blank"> linkedin.com/in/{{ site.author.linkedin }} </a></p>
                 <p><i class="fa fa-twitter fa-fw"></i> <a href="//twitter.com/{{ site.author.twitter }}" target="_blank">  @{{ site.author.twitter }} </a></p>
             </div>
-            <div class="col-sm-3 visible-md-block visible-lg-block">
+            <div class="col-sm-4 visible-md-block visible-lg-block">
                 <a href="#" class="btn btn-dark"><i class="icon-file icon-white"></i> Resume.pdf </a>
             </div>
         </div>
     </div>
 </div>
+
+
