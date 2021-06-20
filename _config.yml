@@ -1,5 +1,5 @@
 # Site settings
-title: Dong Liang's CV 
+title: Ashis Kumar's CV 
 description: ddbullfrog's CV
 favicon: /assets/img/avatar.JPG
 baseurl: https://ddbullfrog.github.io/resumecard
@@ -14,14 +14,14 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang#gmail.com
-  link: http://ddbullfrog.com
+  name: Ashis Kumar Pal
+  title: Interdisciplinary PhD Researcher
+  address: Boston,USA.
+  email: ashispalrony@gmail.com
+  link: https://ashiskumarpal.github.io/AshisKumar/
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
+  github: Ashisrony14
+  linkedin: Ashispal-ipe
   twitter: ddbullfrog
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
