@@ -48,6 +48,15 @@ author:
       started: 2009
       duration: (2009 - 2012)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+    - work4:
+      company: XXX Ltd
+      location: Dhaka, Bangladesh
+      title: Java Developer
+      started: 2009
+      duration: (2009 - 2012)
+      description: I am not a description. I am not description.I am not description.
+  
+  
   educationHistory:
     - education1:
       organization: XXXXXX University
