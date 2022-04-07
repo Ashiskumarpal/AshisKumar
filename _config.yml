@@ -84,9 +84,9 @@ author:
     - skill2:
       name: MATLAB
       percentage: 80%
-    - skill3:
-      name: C
-      percentage: 70%
+#     - skill3:
+#       name: C
+#       percentage: 70%
     - skill4:
       name: ArcGIS
       percentage: 90%
@@ -96,6 +96,6 @@ author:
     - skill6:
       name: Google Earth Engine
       percentage: 80%
-    - skill7:
-      name: Gephi (Graph/network visualization)
-      percentage: 80%
+#     - skill7:
+#       name: Gephi (Graph/network visualization)
+#       percentage: 80%
