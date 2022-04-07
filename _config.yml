@@ -86,19 +86,36 @@ author:
     - language3:
       name: Hindi
       proficiency: Limit
-  Skills:
+      
+  programmingSkills:
     - skill1:
-      name: Python
-      percentage: 90%
+      name: HTML
+      percentage: 100%
     - skill2:
-      name: MATLAB
-      percentage: 80%
-    - skill3:
-      name: ArcGIS
+      name: Bootstrap
       percentage: 90%
+    - skill3:
+      name: JavaScript
+      percentage: 70%
     - skill4:
-      name: Tableau
-      percentage: 80%
+      name: AngularJS
+      percentage: 70%
     - skill5:
-      name: Google Earth Engine
-      percentage: 80%
+      name: Java/Java EE
+      percentage: 90%    
+#   Skills:
+#     - skill1:
+#       name: Python
+#       percentage: 90%
+#     - skill2:
+#       name: MATLAB
+#       percentage: 80%
+#     - skill3:
+#       name: ArcGIS
+#       percentage: 90%
+#     - skill4:
+#       name: Tableau
+#       percentage: 80%
+#     - skill5:
+#       name: Google Earth Engine
+#       percentage: 80%
