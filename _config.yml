@@ -1,6 +1,6 @@
 # Site settings
 title: Ashis Kumar's CV 
-description: ddbullfrog's CV
+description: Ashis's CV
 favicon: /assets/img/Ashis.JPG
 baseurl: https://ashiskumarpal.github.io/
 url: https://ashiskumarpal.github.io/
@@ -28,33 +28,33 @@ author:
 #  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: Northeastern University
-      location: Boston,MA, USA.
-      title: Interdisciplinary Engineering ( Cumulative GPA – 3.89/4.00)
-      started: 2020
-      duration: (Sep 2020-Present)
-      description: Courses ~ Supervised Machine Learning, Dynamical Processes in Complex Networks, Time Series and Geo-Spatial Data Sciences, Climate Science,Engineering Adaptation, and Policy, Critical Infrastructure Resilience, Complex Networks, Hydrologic and Hydraulic Design, Remote Sensing of the Environment.
+      company: Twice Polybag and Thread Industry Ltd.
+      location: Dhaka, Bangladesh.
+      title: Manager, Production.
+      started: 2019
+      duration: (July 2019-Sep 2020)
+      description: Concentration ~ Production of industrial sewing thread, capacity analysis, maintenance, inventory management, lean manufacturing, dyes chemical sourcing.
     - work2:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Partex Star Group
+      location: Dhaka, Bangladesh.
+      title: Master Production Scheduler
+      started: 2018
+      duration: (Dec 2018 - June 2019)
+      description: Concentration ~ Demand forecasting,production scheduling,inventory management,supply and operations planning execution.
     - work3:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Fakir Apparels Ltd.
+      location: Dhaka, Bangladesh.
+      title: Executive,Production Planning and Coordination. 
+      started: 2017
+      duration: (Mar 2017-Sep 2018)
+      description: Concentration ~ Production planning,capacity analysis,lean Manufacturing,co-ordination and plan execution, waste reduction.
     - work4:
-      company: XXX Ltd
+      company: BBS Cables Ltd.
       location: Dhaka, Bangladesh
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description.
+      title: Internship.
+      started: 2016
+      duration: (Feb 2016-Mar 2016)
+      description: Concentration ~ Layout design,time and motion study,cable production,quality control of cable manufacturing.
   
   
   educationHistory:
@@ -62,10 +62,19 @@ author:
       organization: Northeastern University
       location: Boston,MA,USA.
       degree: PhD
-      major: Interdisciplinary Engineering
+      major: Interdisciplinary Engineering ( Cumulative GPA – 3.89/4.00)
       started: Sep 2020
-      duration: (2020 - Running)
-      description: I am not a description. I am not description.I am not description.
+      duration: (Sep 2020 - Running)
+      description: Courses ~ Supervised Machine Learning, Dynamical Processes in Complex Networks, Time Series and Geo-Spatial Data Sciences, Climate Science,Engineering Adaptation, and Policy, Critical Infrastructure Resilience, Complex Networks, Hydrologic and Hydraulic Design, Remote Sensing of the Environment.
+      
+    - education2:
+      organization: Bangladesh University of Engineering and Technology (BUET).
+      location: Dhaka, Bangladesh.
+      degree: B.Sc.
+      major: Industrial and Production Engineering ( Cumulative GPA – 3.32/4.00)
+      started: Sep 2012
+      duration: (May 2012-Feb 2017)
+      description: Courses ~ Operations Research,Probability and Statistics, Manufacturing Process-I and II,Supply Chain Management,Operations Management,Product Design,Computer Integrated Manufacturing.
         
   languages:
     - language1:
@@ -84,18 +93,12 @@ author:
     - skill2:
       name: MATLAB
       percentage: 80%
-#     - skill3:
-#       name: C
-#       percentage: 70%
-    - skill4:
+    - skill3:
       name: ArcGIS
       percentage: 90%
-    - skill5:
+    - skill4:
       name: Tableau
       percentage: 80%
-    - skill6:
+    - skill5:
       name: Google Earth Engine
       percentage: 80%
-#     - skill7:
-#       name: Gephi (Graph/network visualization)
-#       percentage: 80%
