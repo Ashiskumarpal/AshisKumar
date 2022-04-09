@@ -75,7 +75,12 @@ author:
       started: Sep 2012
       duration: (May 2012-Feb 2017)
       description: <span style="color:Crimson">Courses:~</span> Operations Research,Probability and Statistics, Manufacturing Process-I and II,Supply Chain Management,Operations Management,Product Design,Computer Integrated Manufacturing.
-        
+ 
+  projects:
+    - project1:
+      name: Test Project.
+ 
+ 
   languages:
     - language1:
       name: Bengali
