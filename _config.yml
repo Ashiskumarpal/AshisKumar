@@ -28,7 +28,7 @@ author:
 #  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: \href{http://twicegroupbd.com/}{Twice Polybag and Thread Industry Ltd.}
+      company: <a href="http://twicegroupbd.com/">Twice Polybag and Thread Industry Ltd.</a>
       location: Dhaka, Bangladesh.
       title: Manager, Production.
       started: 2019
