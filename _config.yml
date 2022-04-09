@@ -65,7 +65,7 @@ author:
       major: Interdisciplinary Engineering ( Cumulative GPA – 3.89/4.00)
       started: Sep 2020
       duration: (Sep 2020 - Running)
-      description: <span style="color:green">Courses:~</span> Supervised Machine Learning, Dynamical Processes in Complex Networks, Time Series and Geo-Spatial Data Sciences, Climate Science,Engineering Adaptation, and Policy, Critical Infrastructure Resilience, Complex Networks, Hydrologic and Hydraulic Design, Remote Sensing of the Environment.
+      description: <span style="color:Crimson">Courses:~</span> Supervised Machine Learning, Dynamical Processes in Complex Networks, Time Series and Geo-Spatial Data Sciences, Climate Science,Engineering Adaptation, and Policy, Critical Infrastructure Resilience, Complex Networks, Hydrologic and Hydraulic Design, Remote Sensing of the Environment.
       
     - education2:
       organization: <a href="https://www.buet.ac.bd/web/">Bangladesh University of Engineering and Technology (BUET)</a>
@@ -74,7 +74,7 @@ author:
       major: Industrial and Production Engineering ( Cumulative GPA – 3.32/4.00)
       started: Sep 2012
       duration: (May 2012-Feb 2017)
-      description: <span style="color:green">Courses:~</span> Operations Research,Probability and Statistics, Manufacturing Process-I and II,Supply Chain Management,Operations Management,Product Design,Computer Integrated Manufacturing.
+      description: <span style="color:Crimson">Courses:~</span> Operations Research,Probability and Statistics, Manufacturing Process-I and II,Supply Chain Management,Operations Management,Product Design,Computer Integrated Manufacturing.
         
   languages:
     - language1:
