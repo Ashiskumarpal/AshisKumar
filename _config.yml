@@ -59,7 +59,7 @@ author:
   
   educationHistory:
     - education1:
-      organization: <a href="https://www.northeastern.edu/"><span style="color:Indigo"><strong>Northeastern University</strong></span></a>
+      organization: <a href="https://www.northeastern.edu/"><span style="color:Crimson"><strong>Northeastern University</strong></span></a>
       location: Boston,MA,USA.
       degree: PhD
       major: Interdisciplinary Engineering ( Cumulative GPA – 3.89/4.00)
@@ -68,7 +68,7 @@ author:
       description: <span style="color:Crimson">Courses:~</span> Supervised Machine Learning, Dynamical Processes in Complex Networks, Time Series and Geo-Spatial Data Sciences, Climate Science,Engineering Adaptation, and Policy, Critical Infrastructure Resilience, Complex Networks, Hydrologic and Hydraulic Design, Remote Sensing of the Environment.
       
     - education2:
-      organization: <a href="https://www.buet.ac.bd/web/">Bangladesh University of Engineering and Technology (BUET)</a>
+      organization: <a href="https://www.buet.ac.bd/web/"><span style="color:Crimson"><strong>Bangladesh University of Engineering and Technology (BUET)</strong></span></a>
       location: Dhaka, Bangladesh.
       degree: B.Sc.
       major: Industrial and Production Engineering ( Cumulative GPA – 3.32/4.00)
