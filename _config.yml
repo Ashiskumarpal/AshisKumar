@@ -59,7 +59,7 @@ author:
   
   educationHistory:
     - education1:
-      organization: <a href="https://www.northeastern.edu/">Northeastern University</a>
+      organization: <a href="https://www.northeastern.edu/"><span style="color:Indigo"><strong>Northeastern University</strong></span></a>
       location: Boston,MA,USA.
       degree: PhD
       major: Interdisciplinary Engineering ( Cumulative GPA – 3.89/4.00)
@@ -83,15 +83,15 @@ author:
       duration: (May 2021 - Present)
       description: Funded by US Department of Defense(DoD).This hypothesis-guided research will lead to novel frameworks and models for improving the science of resilience with an ultimate, long-term view of providing actionable insights for ensuring DoD’s readiness to unknown and possibly unknowable compounding risks.
     - project2:
-      name: Compound flooding impact on lifeline infrastructure network.
+      name: <span style="color:Indigo"><strong>Compound flooding impact on lifeline infrastructure network.</strong></span>
       duration: (Fall 2021 - Present)
       description: Understanding of resilience(robustness and recovery) of lifeline infrastructures specifically mass transit railway network in greater Boston area examined under compound flooding (coastal flooding and sea level rise).
     - project3: 
-      name: Characterization and delineation of multi model ensembles and multiple initial model ensemble based on complex network analysis.
+      name: <span style="color:Indigo"><strong>Characterization and delineation of multi model ensembles and multiple initial model ensemble based on complex network analysis.</strong></span>
       duration: (Fall 2021 - Present)
       description: Distinguishing between multiple model ensembles and multiple initial model ensemble and their dynamics using complex network.Exploring geo-clusters,spatial patterns predictive insights,climate dynamics using CMIP6 output data.
     - project4: 
-      name: Improving resilience of lifeline infrastructures with network topology and dynamics.
+      name: <span style="color:Indigo"><strong>Improving resilience of lifeline infrastructures with network topology and dynamics.</strong></span>
       duration: (Fall 2021 - Present)
       description: Analysing infrastructure network(eight urban metro network worldwide) topology and dynamics(flows of physical quantities in the network) to assess robustness.
     
