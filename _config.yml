@@ -33,48 +33,48 @@ author:
       title: Manager, Production.
       started: 2019
       duration: (July 2019-Sep 2020)
-      description: <span style="color:DeepSkyBlue"><strong>Concentration:~</strong></span> Production of industrial sewing thread, capacity analysis, maintenance, inventory management, lean manufacturing, dyes chemical sourcing.
+      description: <span style="color:DeepSkyBlue"><strong>Concentration:~ </strong></span> Production of industrial sewing thread, capacity analysis, maintenance, inventory management, lean manufacturing, dyes chemical sourcing.
     - work2:
       company: <a href="https://partexstargroup.com/"><span style="color:DeepSkyBlue"><strong>Partex Star Group</strong></span></a>
       location: Dhaka, Bangladesh.
       title: Master Production Scheduler
       started: 2018
       duration: (Dec 2018 - June 2019)
-      description: <span style="color:DeepSkyBlue"><strong>Concentration:~</strong></span> Demand forecasting,production scheduling,inventory management,supply and operations planning execution.
+      description: <span style="color:DeepSkyBlue"><strong>Concentration:~ </strong></span> Demand forecasting,production scheduling,inventory management,supply and operations planning execution.
     - work3:
       company: <a href="https://fakirapparels.com/"><span style="color:DeepSkyBlue"><strong>Fakir Apparels Ltd.</strong></span></a>
       location: Dhaka, Bangladesh.
       title: Executive,Production Planning and Coordination. 
       started: 2017
       duration: (Mar 2017-Sep 2018)
-      description: <span style="color:DeepSkyBlue"><strong>Concentration:~</strong></span> Production planning,capacity analysis,lean Manufacturing,co-ordination and plan execution, waste reduction.
+      description: <span style="color:DeepSkyBlue"><strong>Concentration:~ </strong></span> Production planning,capacity analysis,lean Manufacturing,co-ordination and plan execution, waste reduction.
     - work4:
       company: <a href="https://www.bbscables.com.bd/"><span style="color:DeepSkyBlue"><strong>BBS Cables Ltd.</strong></span></a>
       location: Dhaka, Bangladesh
       title: Internship.
       started: 2016
       duration: (Feb 2016-Mar 2016)
-      description: <span style="color:DeepSkyBlue"><strong>Concentration:~</strong></span> Layout design,time and motion study,cable production,quality control of cable manufacturing.
+      description: <span style="color:DeepSkyBlue"><strong>Concentration:~ </strong></span> Layout design,time and motion study,cable production,quality control of cable manufacturing.
   
   
   educationHistory:
     - education1:
-      organization: <a href="https://www.northeastern.edu/"><span style="color:Crimson"><strong>Northeastern University</strong></span></a>
+      organization: <a href="https://www.northeastern.edu/"><span style="color:LightSeaGreen"><strong>Northeastern University</strong></span></a>
       location: Boston,MA,USA.
       degree: PhD
       major: Interdisciplinary Engineering ( Cumulative GPA – 3.89/4.00)
       started: Sep 2020
       duration: (Sep 2020 - Running)
-      description: <span style="color:Crimson"><strong>Courses:~</strong></span> Supervised Machine Learning, Dynamical Processes in Complex Networks, Time Series and Geo-Spatial Data Sciences, Climate Science,Engineering Adaptation, and Policy, Critical Infrastructure Resilience, Complex Networks, Hydrologic and Hydraulic Design, Remote Sensing of the Environment.
+      description: <span style="color:LightSeaGreen"><strong>Courses:~ </strong></span> Supervised Machine Learning, Dynamical Processes in Complex Networks, Time Series and Geo-Spatial Data Sciences, Climate Science,Engineering Adaptation, and Policy, Critical Infrastructure Resilience, Complex Networks, Hydrologic and Hydraulic Design, Remote Sensing of the Environment.
       
     - education2:
-      organization: <a href="https://www.buet.ac.bd/web/"><span style="color:Crimson"><strong>Bangladesh University of Engineering and Technology (BUET)</strong></span></a>
+      organization: <a href="https://www.buet.ac.bd/web/"><span style="color:LightSeaGreen"><strong>Bangladesh University of Engineering and Technology (BUET)</strong></span></a>
       location: Dhaka, Bangladesh.
       degree: B.Sc.
       major: Industrial and Production Engineering ( Cumulative GPA – 3.32/4.00)
       started: Sep 2012
       duration: (May 2012-Feb 2017)
-      description: <span style="color:Crimson"><strong>Courses:~</strong></span> Operations Research,Probability and Statistics, Manufacturing Process-I and II,Supply Chain Management,Operations Management,Product Design,Computer Integrated Manufacturing.
+      description: <span style="color:LightSeaGreen"><strong>Courses:~ </strong></span> Operations Research,Probability and Statistics, Manufacturing Process-I and II,Supply Chain Management,Operations Management,Product Design,Computer Integrated Manufacturing.
  
  
   projects:
