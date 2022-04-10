@@ -28,28 +28,28 @@ author:
 #  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: <a href="http://twicegroupbd.com/">Twice Polybag and Thread Industry Ltd.</a>
+      company: <a href="http://twicegroupbd.com/"><span style="color:blue"><strong>Twice Polybag and Thread Industry Ltd.</strong></span></a>
       location: Dhaka, Bangladesh.
       title: Manager, Production.
       started: 2019
       duration: (July 2019-Sep 2020)
       description: <span style="color:blue"><strong>Concentration:~</strong></span> Production of industrial sewing thread, capacity analysis, maintenance, inventory management, lean manufacturing, dyes chemical sourcing.
     - work2:
-      company: <a href="https://partexstargroup.com/">Partex Star Group</a>
+      company: <a href="https://partexstargroup.com/"><span style="color:blue"><strong>Partex Star Group</strong></span></a>
       location: Dhaka, Bangladesh.
       title: Master Production Scheduler
       started: 2018
       duration: (Dec 2018 - June 2019)
       description: <span style="color:blue"><strong>Concentration:~</strong></span> Demand forecasting,production scheduling,inventory management,supply and operations planning execution.
     - work3:
-      company: <a href="https://fakirapparels.com/">Fakir Apparels Ltd.</a>
+      company: <a href="https://fakirapparels.com/"><span style="color:blue"><strong>Fakir Apparels Ltd.</strong></span></a>
       location: Dhaka, Bangladesh.
       title: Executive,Production Planning and Coordination. 
       started: 2017
       duration: (Mar 2017-Sep 2018)
       description: <span style="color:blue"><strong>Concentration:~</strong></span> Production planning,capacity analysis,lean Manufacturing,co-ordination and plan execution, waste reduction.
     - work4:
-      company: <a href="https://www.bbscables.com.bd/">BBS Cables Ltd.</a>
+      company: <a href="https://www.bbscables.com.bd/"><span style="color:blue"><strong>BBS Cables Ltd.</strong></span></a>
       location: Dhaka, Bangladesh
       title: Internship.
       started: 2016
