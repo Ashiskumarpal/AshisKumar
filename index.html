@@ -138,6 +138,9 @@ layout: default
                                             {% if course.duration %}
                                                 <i class="fa fa-calendar"></i> {{ course.duration }} |
                                             {% endif %}
+                                            {% if course.by %}
+                                                <i class="fa fa-map-marker"></i>  {{ course.by }}
+                                            {% endif %}
                                         </small>
                                     </p>
                                 </div>
