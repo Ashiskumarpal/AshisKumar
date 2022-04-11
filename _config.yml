@@ -98,12 +98,12 @@ author:
  
   courses:
     - course1:
-      name: <span style="color:DodgerBlue"><strong>Supervised Learning with scikit-learn</strong></span>
+      name: <a href="https://drive.google.com/file/d/1e66gCSCpSmuiMy7dlvripU5GCF3BYogC/view?usp=sharing"><span style="color:DodgerBlue"><strong>Supervised Learning with scikit-learn</strong></span></a>
       by: <span style="color:DodgerBlue">DATACAMP</span>
       duration: (March 2020-May 2020)
       facilitator: Hugo Bowne Anderson
     - course2:
-      name: <span style="color:DodgerBlue"><strong>Lean Production</strong></span>
+      name: <a href="https://drive.google.com/file/d/1C5JgGaSSQLqYdu8ijgIFXCffbWyQIJ0o/view?usp=sharing"><span style="color:DodgerBlue"><strong>Lean Production</strong></span></a>
       by: <span style="color:DodgerBlue">edX_TUMX</span>
       duration: (Sep 2018-Nov 2018)
       facilitator: Professor Holly ott
