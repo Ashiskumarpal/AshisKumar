@@ -98,15 +98,15 @@ author:
  
   courses:
     - course1:
-      name: <span style="color:Indigo"><strong>Supervised Learning with scikit-learn</strong></span>
-      by: <span style="color:Indigo">DATACAMP</span>
+      name: <span style="color:SeaGreen"><strong>Supervised Learning with scikit-learn</strong></span>
+      by: <span style="color:SeaGreen">DATACAMP</span>
       duration: (March 2020-May 2020)
-      facilitator: <span style="color:Indigo">Instructor: </span>Hugo Bowne Anderson
+      facilitator: <span style="color:SeaGreen">Instructor: </span>Hugo Bowne Anderson
     - course2:
-      name: <span style="color:Indigo"><strong>Lean Production</strong></span>
-      by: <span style="color:Indigo">edX : TUMX</span>
+      name: <span style="color:SeaGreen"><strong>Lean Production</strong></span>
+      by: <span style="color:SeaGreen">edX : TUMX</span>
       duration: (Sep 2018-Nov 2018)
-      facilitator: <span style="color:Indigo">Instructor: </span>Professor Holly ott
+      facilitator: <span style="color:SeaGreen">Instructor: </span>Professor Holly ott
  
   languages:
     - language1:
