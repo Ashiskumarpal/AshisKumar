@@ -96,7 +96,7 @@ author:
       description: Analysing infrastructure network(eight urban metro network worldwide) topology and dynamics(flows of physical quantities in the network) to assess robustness.
     
  
-   courses:
+  courses:
     - course1:
       name: <span style="color:Indigo"><strong>Supervised Learning with scikit-learn</strong></span>
       by : DATACAMP
