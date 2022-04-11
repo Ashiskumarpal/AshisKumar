@@ -95,7 +95,14 @@ author:
       duration: (Fall 2021 - Present)
       description: Analysing infrastructure network(eight urban metro network worldwide) topology and dynamics(flows of physical quantities in the network) to assess robustness.
     
-    
+ 
+   courses:
+    - course1:
+      name: <span style="color:Indigo"><strong>Supervised Learning with scikit-learn</strong></span>
+      by : DATACAMP
+      duration: (March 2020-May 2020)
+      facilitator: Hugo Bowne Anderson
+ 
   languages:
     - language1:
       name: Bengali
