@@ -120,6 +120,37 @@ layout: default
                     {% endfor %}
                 </ul>
             {% endif %}
+            {% if site.author.courses %}
+                <h3 class="title with-icon"><span class="fa fa-asterisk cat-title"></span>Online Courses</h3>
+                <ul class="timeline">
+                    {% for course in site.author.courses %}
+                        <li class="timeline-inverted">
+                            {% if course.started %}
+                                <div class="timeline-badge info">{{ course.started }}</div>
+                            {% endif %}
+                            <div class="timeline-panel grid-block">
+                                <div class="timeline-heading">
+                                    {% if course.name %}
+                                        <h4 class="timeline-title">{{ course.name }}</h4>
+                                    {% endif %}
+                                    <p>
+                                        <small class="text-muted">
+                                            {% if course.duration %}
+                                                <i class="fa fa-calendar"></i> {{ course.duration }} |
+                                            {% endif %}
+                                        </small>
+                                    </p>
+                                </div>
+                                <div class="timeline-body">
+                                    {% if course.facilitator %}
+                                        <p>{{ course.facilitator }}</p>
+                                    {% endif %}
+                                </div>
+                            </div>
+                        </li>
+                    {% endfor %}
+                </ul>
+            {% endif %}
         </div>
         <div class="col-md-4">
             {% if site.author.stackoverflow or site.author.programmingSkills %}
