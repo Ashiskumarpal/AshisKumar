@@ -106,7 +106,12 @@ author:
       name: <a href="https://drive.google.com/file/d/1C5JgGaSSQLqYdu8ijgIFXCffbWyQIJ0o/view?usp=sharing"><span style="color:DodgerBlue"><strong>Lean Production</strong></span></a>
       by: <span style="color:DodgerBlue">edX_TUMX</span>
       duration: (Sep 2018-Nov 2018)
-      facilitator: Professor Holly ott
+      facilitator: Professor Holly ott  
+    - course3:
+      name: <a href="https://drive.google.com/file/d/1wPVWrnRtmGYlcy4oKdizgirMLkzZAWpa/view?usp=sharing"><span style="color:DodgerBlue"><strong>Introduction to Python</strong></span></a>
+      by: <span style="color:DodgerBlue">DATACAMP</span>
+      duration: (March 2020-May 2020)
+      facilitator: Hugo Bowne Anderson
  
   languages:
     - language1:
