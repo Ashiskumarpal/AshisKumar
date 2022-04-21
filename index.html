@@ -303,14 +303,14 @@ layout: default
             {% endif %}
             {% if site.author.Skills %}
                 <div class="deviter"></div>
-                <h3 class="title with-icon"><span class="fa fa-language cat-title"></span> Other Skills</h3>
+                <h3 class="title with-icon"><span class="fa fa-thumb-tack cat-title"></span> Other Skills</h3>
                 <div class="grid-block">
                     <ul class="list-unstyled list-strip">
                         {% for skill in site.author.Skills %}
                             {% if skill.name %}
                                 {% if skill.category %}
                                     <li>
-                                        <i class="fa fa-check"></i> <span class="badge badge-green badge-right-float">{{ skill.category }}</span>{{ skill.name }}
+                                        <i class="fa fa-toggle-right"></i> <span class="badge badge-green badge-right-float">{{ skill.category }}</span>{{ skill.name }}
                                     </li>
                                 {% endif %}
                             {% endif %}
