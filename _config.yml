@@ -144,4 +144,12 @@ author:
       percentage: 80%
     - skill5:
       name: AutoCAD
-      percentage: 80%    
+      percentage: 80%  
+      
+  Skills:
+    - skill1:
+      name: Amazon Sagemaker
+      category: Cloud Services
+    - skill2:
+      name: Azure
+      category: Cloud Services  
