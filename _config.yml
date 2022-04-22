@@ -59,22 +59,22 @@ author:
   
   educationHistory:
     - education1:
-      organization: <a href="https://www.northeastern.edu/"><span style="color:LightSeaGreen"><strong>Northeastern University</strong></span></a>
+      organization: <a href="https://www.northeastern.edu/"><span style="color:Indigo"><strong>Northeastern University</strong></span></a>
       location: Boston,MA,USA.
       degree: PhD
       major: Interdisciplinary Engineering ( Cumulative GPA – 3.89/4.00)
       started: Sep 2020
       duration: (Sep 2020 - Running)
-      description: <span style="color:LightSeaGreen"><strong>Courses:~ </strong></span> Supervised Machine Learning, Dynamical Processes in Complex Networks, Time Series and Geo-Spatial Data Sciences, Climate Science,Engineering Adaptation, and Policy, Critical Infrastructure Resilience, Complex Networks, Hydrologic and Hydraulic Design, Remote Sensing of the Environment.
+      description: <span style="color:Indigo"><strong>Courses:~ </strong></span> Supervised Machine Learning, Dynamical Processes in Complex Networks, Time Series and Geo-Spatial Data Sciences, Climate Science,Engineering Adaptation, and Policy, Critical Infrastructure Resilience, Complex Networks, Hydrologic and Hydraulic Design, Remote Sensing of the Environment.
       
     - education2:
-      organization: <a href="https://www.buet.ac.bd/web/"><span style="color:LightSeaGreen"><strong>Bangladesh University of Engineering and Technology (BUET)</strong></span></a>
+      organization: <a href="https://www.buet.ac.bd/web/"><span style="color:Indigo"><strong>Bangladesh University of Engineering and Technology (BUET)</strong></span></a>
       location: Dhaka, Bangladesh.
       degree: B.Sc.
       major: Industrial and Production Engineering ( Cumulative GPA – 3.32/4.00)
       started: Sep 2012
       duration: (May 2012-Feb 2017)
-      description: <span style="color:LightSeaGreen"><strong>Courses:~ </strong></span> Operations Research,Probability and Statistics, Manufacturing Process-I and II,Supply Chain Management,Operations Management,Product Design,Computer Integrated Manufacturing.
+      description: <span style="color:Indigo"><strong>Courses:~ </strong></span> Operations Research,Probability and Statistics, Manufacturing Process-I and II,Supply Chain Management,Operations Management,Product Design,Computer Integrated Manufacturing.
  
  
   projects:
