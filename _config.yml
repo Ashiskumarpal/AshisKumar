@@ -1,7 +1,7 @@
 # Site settings
 title: Ashis Kumar's CV 
 description: Ashis's CV
-favicon: /assets/img/Ashis_WB.png
+favicon: /assets/img/Ashis.JPG
 baseurl: https://ashiskumarpal.github.io/
 url: https://ashiskumarpal.github.io/
 rss_url: /pages/atom.xml
